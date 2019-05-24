@@ -1,0 +1,62 @@
+[33mcommit 963db6bc54962770098c6d85c0e752f591b2417c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: c387409 3df52b4
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 03:01:58 2019 +0300
+
+    repair conflict
+
+[33mcommit 3df52b4f9ea2f273302ac111988424258dc87f88[m[33m ([m[1;32mnewdew[m[33m)[m
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 02:55:03 2019 +0300
+
+    name+otch
+
+[33mcommit c387409409177a6dea934e7e3d04b126e51492ac[m
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 02:41:28 2019 +0300
+
+    plus !!
+
+[33mcommit 710a271d2ab080768037e9c9dc30b5d61672d0b0[m[33m ([m[1;31morigin/newdew[m[33m)[m
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 02:32:04 2019 +0300
+
+    vetka newdew
+
+[33mcommit b9efa544b7c639e8a0dcc8d2e8e3380de83ae049[m[33m ([m[1;31morigin/second2[m[33m)[m
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 02:22:26 2019 +0300
+
+    vetka second2
+
+[33mcommit d2162a489ae866bf598d318d8aaa87eb16e1ce15[m
+Merge: 20082a5 8f828de
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 02:10:00 2019 +0300
+
+    Merge branch 'master' of https://github.com/nikita-khripunov/learnApp
+
+[33mcommit 20082a5f9f9386ec0573b4fccf28b45b8e7bf7af[m
+Author: nikita <khrpnv@mail.ru>
+Date:   Fri May 24 01:48:06 2019 +0300
+
+    first commit
+
+[33mcommit 8f828debf32444c0e54063d47cbefd3c4e517c7e[m
+Merge: 595579c f20f53d
+Author: Putina <serafima.putina@mail.ru>
+Date:   Mon May 13 10:46:43 2019 +0300
+
+    Merge branch 'master' of https://github.com/nikita-khripunov/learnApp
+
+[33mcommit 595579c48cffc8fed203f85c84128786b5c7ce6d[m
+Author: Putina <serafima.putina@mail.ru>
+Date:   Mon May 13 10:30:16 2019 +0300
+
+    first commit
+
+[33mcommit f20f53dc31e649f782c442c9ab680078b94897cf[m
+Author: n-khripunov <50570789+n-khripunov@users.noreply.github.com>
+Date:   Mon May 13 10:08:51 2019 +0300
+
+    Initial commit
